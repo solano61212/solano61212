@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+KeiNovak!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+Osmi!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
 </div>
 <div align="center">
   <h2>💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦</h2>
