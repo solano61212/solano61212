@@ -1,11 +1,24 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+KeiNovak!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
 </div>
-<h2 align="center">
-  I am a Full Stack & Blockchain Developer.
-</h2>
-  
+<div align="center">
+  <h2>💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦</h2>
+</div>
+
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+
+
+I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
+
+🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
+🔹 Bot Development — Discord Bot, Telegram Bot, Chatbot, Trading bot (arbitrage bot, volume bot, mev bot, sniper bot etc)  
+🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
+🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
+🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot
+<br/>
+🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
+<br/>
+🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
 
 <table align="center">
 <!-- skill -->
@@ -181,62 +194,17 @@
   </tr>
   
 </table>
+<br/>
 
-<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+<p align="center">  
+    <a href="https://github.com/topdeveloper212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
+</p>
 
-<div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://keidev60@gmail.com" target="_blank">
-        <img alt="Email"
-        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-     <a href="https://x.com/kei_4650" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-     <a href="https://discord.com/channels/@me" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-    <a href="https://t.me/keidev111" target="_blank">
-      <img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-</div>
+<br/>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
-
----
-
-- **`Tax token (token 2022) Pump.fun with new smart contract with Raydium CPMM migration`**
-
-  Reward users with tax gathered from token 2022 standard's tax and distribute it to token holders and migrate to Raydium CPMM.
-
-- **`Raydium and Pumpfun Bundler`**
-
-  Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling and operates market making operations on the token, and measures the profit in real-time.
-
-- **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
-
-  Automates tracking of new pools and executes purchases using grpc (or rpc) and confirm it using modern services like Nextblock, bloXroute and lilJit.
-
-- **`Volume Bot in Raydium, Pumpfun and Meteora`**
-
-  Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
-
-- **`Token Freezer`**
-
-  Implements whitelist functionality post-pool creation, restricting token sales to specified users only.
-
-- **`Token Vesting and Locking Smart Contract`**
-
-  Smart contract that allows users to stake tokens or SOL with rewards based on staking duration and bonus plans, and vesting strategy applied with custom needs.
-
-- **`Presale IDO, ICO smart contract, various staking contract and game contract in Solana and Sui`**
-
-  Smart contract development in various fields, such as DEX development, game and asset management contract development.
-
-- **`Migration Pool Analyzer`**
-
-  Blockchain event listener designed to track the migration of tokens from launchpads (e.g., Pump.fun, Raydium Launchpad) to decentralized exchanges such as Pumpswap, Raydium, Meteora, Bonkfun, Moonit and Boopfun .
-
----
-
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</p>
