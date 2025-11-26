@@ -1,47 +1,108 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+Osmi!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+Solano!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
 </div>
 <div align="center">
-  <h2>💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦</h2>
+  <h2>💦 Web3 | Solana | Smart Contract | Trading Bot | Full Stack | AI Developer 💦</h2>
 </div>
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
-
-
-I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
-
-🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
-🔹 Bot Development — Discord Bot, Telegram Bot, Chatbot, Trading bot (arbitrage bot, volume bot, mev bot, sniper bot etc)  
-🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
-🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
-🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot
 <br/>
-🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
-<br/>
-🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
 
 # 
 <table align="center">
+<!-- skill -->
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>REST API
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>GoLang
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
+    </td>
+  </tr>
+  <!-- network -->
+<tr>
+  <td align="center" width="90">
+    <img src="./icons/solana.png" height="45" >
+    <br>Solana
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/ethereum.png" height="45" >
+    <br>Ethereum
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/Bitcoin.svg" height="45" >
+    <br>Bitcoin
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/aptos1.png" height="45" >
+    <br>Aptos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polkadot1.png" height="45" >
+    <br>Polkadot
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/cosmos.png" height="45" >
+    <br>Cosmos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polygon1.png" height="45" >
+    <br>Polygon
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/ton.png" height="45" >
+    <br>Ton
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/trx.png" height="45" >
+    <br>Tron
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/sui.png" height="45" >
+    <br>Sui
+  </td>
+</tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
@@ -52,113 +113,78 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-  </tr>
-  <tr>
-   <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
-      <br>Supabase
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
+<!-- common -->
   <tr>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
+      <br>OpenAI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
+      <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
+      <br>Hugging Face
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
+      <br>ElizaOS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
+      <br>PyTorch
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
+      <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
+      <br>Ollama
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
+      <img src="./icons/vapi.png" width="45" alt="VApi" />
+      <br>VApi
     </td>
   </tr>
+  
 </table>
 <br/>
 
-<p align="center">  
-    <a href="https://github.com/topdeveloper212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
-</p>
-
-<br/>
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <p align="center">
      <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
